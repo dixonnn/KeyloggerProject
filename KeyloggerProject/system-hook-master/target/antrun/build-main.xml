@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <delete failonerror="false" verbose="true">
+    <fileset file="C:\Users\wildcat\Desktop\DesktopFiles\SchoolWork\security\project\JavaKeylogger\system-hook-master\target/classes/lc/kra/system/lib/history.xml"/>
+  </delete>
+</target>
+</project>

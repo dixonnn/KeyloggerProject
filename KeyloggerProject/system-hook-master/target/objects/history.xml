@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="gcc noversion nomachine -std=c99 -O0 -g3 -Wall -Wextra -Wno-unused-parameter -D_JNI_IMPLEMENTATION_ -c -I..\..\..\..\..\..\..\..\..\Program Files\Java\jdk1.8.0_101\include -I..\..\..\..\..\..\..\..\..\Program Files\Java\jdk1.8.0_101\include\win32">
+      <target file="MouseHook.o" lastModified="157f3991d95">
+         <source file="..\..\src\main\native\mouse\windows\MouseHook.c" lastModified="155690dfba0"/>
+      </target>
+      <target file="KeyboardHook.o" lastModified="157f399136a">
+         <source file="..\..\src\main\native\keyboard\windows\KeyboardHook.c" lastModified="155690dfba0"/>
+      </target>
+   </processor>
+</history>
